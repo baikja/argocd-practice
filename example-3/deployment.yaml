@@ -28,3 +28,4 @@ spec:
         - name: web-content
           hostPath:
             path: /home/baikja/html
+            type: Directory

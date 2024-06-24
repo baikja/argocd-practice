@@ -27,5 +27,5 @@ spec:
       volumes:
       - name: shared-data
         hostPath:
-          path: /home/baikja/html  # 경로  변경 필요 
+          path: /home/baikja/html/  # 경로  변경 필요 
           type: Directory
